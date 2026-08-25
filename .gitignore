@@ -1,0 +1,4 @@
+scan_report_*.txt
+scan_report_*.json
+__pycache__/
+*.py[cod]
